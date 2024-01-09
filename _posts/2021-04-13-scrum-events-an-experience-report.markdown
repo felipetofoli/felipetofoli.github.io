@@ -6,7 +6,7 @@ tags: scrum agile
 ---
 Originally posted here: [dev.to](https://dev.to/felipetofoli/eventos-scrum-um-relato-de-experiencia-2i49) account in Brazilian Portuguese. Post translated using ChatGPT.
 
-![Scrum Events: An Experience Report - Banner]({{ site.baseurl }}/assets/images/scrum-events-an-experience-report/scrum-events-an-experience-report-banner.png "Scrum Events: An Experience Report - Banner")
+![Scrum Events: An Experience Report - Banner]({{ site.baseurl }}/assets/images/scrum-events-an-experience-report/scrum-events-an-experience-report-banner.jpg "Scrum Events: An Experience Report - Banner")
 
 A few weeks ago, some team members with limited exposure to agile methodologies asked me to share insights about the application of Scrum in my previous projects, focusing on how Scrum events were conducted.
 

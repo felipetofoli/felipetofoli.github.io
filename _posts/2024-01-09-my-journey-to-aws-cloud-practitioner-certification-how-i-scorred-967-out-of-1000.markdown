@@ -5,7 +5,7 @@ date:   2024-01-09 08:00:00 -0300
 tags:   devops aws certification
 ---
 
-![My Journey to AWS Cloud Practitioner Certification: How I Scored 967/1000! - Banner]({{ site.baseurl }}/assets/images/my-journey-to-aws-cloud-practitioner-certification/my-journey-to-aws-cloud-practitioner-certification-banner.png "My Journey to AWS Cloud Practitioner Certification: How I Scored 967/1000! - Banner")
+![My Journey to AWS Cloud Practitioner Certification: How I Scored 967/1000! - Banner]({{ site.baseurl }}/assets/images/my-journey-to-aws-cloud-practitioner-certification/my-journey-to-aws-cloud-practitioner-certification-banner.jpg "My Journey to AWS Cloud Practitioner Certification: How I Scored 967/1000! - Banner")
 
 
 Recently, I took the AWS Cloud Practitioner certification exam and scored 967 out of 1000 points. :tada:
