@@ -5,7 +5,7 @@ date:   2024-01-09 08:00:00 -0300
 tags:   devops aws certification
 ---
 
-![Minha Jornada para a Certificação AWS Cloud Practitioner: Como Consegui 967/1000! - Banner]({{ site.baseurl }}/assets/images/minha-jornada-para-a-certificacao-aws-cloud-practitioner/minha-jornada-para-a-certificacao-aws-cloud-practitioner-banner.png "Minha Jornada para a Certificação AWS Cloud Practitioner: Como Consegui 967/1000! - Banner")
+![Minha Jornada para a Certificação AWS Cloud Practitioner: Como Consegui 967/1000! - Banner]({{ site.baseurl }}/assets/images/minha-jornada-para-a-certificacao-aws-cloud-practitioner/minha-jornada-para-a-certificacao-aws-cloud-practitioner-banner.jpg "Minha Jornada para a Certificação AWS Cloud Practitioner: Como Consegui 967/1000! - Banner")
 
 
 Recentemente, realizei a prova de certificação AWS Cloud Practitioner, e tirei 967 pontos - de 1000 pontos possíveis. :tada:
