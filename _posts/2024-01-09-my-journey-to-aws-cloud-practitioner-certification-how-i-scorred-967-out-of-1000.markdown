@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Journey to AWS Cloud Practitioner Certification: How I Scored 967/1000!"
-date:   2024-01-09 00:00:00 -0300
+date:   2024-01-09 08:00:00 -0300
 tags:   devops aws certification
 ---
 

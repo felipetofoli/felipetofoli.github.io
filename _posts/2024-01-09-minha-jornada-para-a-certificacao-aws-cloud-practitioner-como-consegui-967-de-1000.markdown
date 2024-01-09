@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[PT-BR] Minha Jornada para a Certificação AWS Cloud Practitioner: Como Consegui 967/1000!"
-date:   2024-01-09 00:00:00 -0300
+date:   2024-01-09 08:00:00 -0300
 tags:   devops aws certification
 ---
 
