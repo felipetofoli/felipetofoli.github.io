@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Code formatting for C# projects: dotnet format + GitHub Actions"
+description: "Optimize your C# projects with code formatting using dotnet format and GitHub Actions. Learn efficient practices for clean code and seamless integration."
 date:   2021-08-16 08:00:00 -0300
 tags: dotnet csharp github formatting
 ---

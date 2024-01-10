@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Scrum Events: An Experience Report"
+description: "Explore Scrum events through this detailed experience report. Gain insights for effective agile project managemen with this real-world perspective (Sprints, Retrospective, Planning, Review)."
 date:   2021-04-13 08:00:00 -0300
 tags: scrum agile
 ---
