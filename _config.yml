@@ -23,7 +23,7 @@ email: tofoli.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Explore the latest trends in software development, dive deep into coding tutorials, and learn together with me. Join me in this coding journey!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://felipetofoli.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: felipetofoli
 github_username:  felipetofoli
 
@@ -33,6 +33,12 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jemoji
+
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: felipetofoli
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
