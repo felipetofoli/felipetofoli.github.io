@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My Journey to AWS Cloud Practitioner Certification: How I Scored 967/1000!"
+description: Preparation Guide for the AWS Cloud Practitioner Certification  with study materials, tips, and best strategies for passing the exam.
 date:   2024-01-09 08:00:00 -0300
 tags:   devops aws certification
 ---

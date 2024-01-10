@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "GitHub Actions for .Net Full Framework: Build and Test"
+description: "Elevate your .NET Full Framework projects with GitHub Actions. Explore effective strategies for build and test automation for dotnet C# (csharp) projects."
 date:   2021-06-07 08:00:00 -0300
 tags: devops dotnet github ci
 ---
